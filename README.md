@@ -3,7 +3,7 @@
 An interface to use a CPP solution into Python3 code.
 
 ```
-bash copile.sh
+bash compile.sh
 python3 teste.py
 ```
 
